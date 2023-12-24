@@ -1,3 +1,4 @@
+use anyhow::Result;
 use rand::Rng;
 
 struct MyController {
